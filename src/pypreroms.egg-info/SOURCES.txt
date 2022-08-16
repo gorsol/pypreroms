@@ -1,0 +1,13 @@
+LICENSE.txt
+README.rst
+pyproject.toml
+setup.py
+data/data_file
+src/pypreroms/__init__.py
+src/pypreroms/exemple.py
+src/pypreroms.egg-info/PKG-INFO
+src/pypreroms.egg-info/SOURCES.txt
+src/pypreroms.egg-info/dependency_links.txt
+src/pypreroms.egg-info/entry_points.txt
+src/pypreroms.egg-info/requires.txt
+src/pypreroms.egg-info/top_level.txt
